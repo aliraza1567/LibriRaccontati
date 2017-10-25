@@ -1,0 +1,13 @@
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati.Player\bin\Debug\LibriRaccontati.Player.dll
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati.Player\bin\Debug\LibriRaccontati.Player.pdb
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.csprojResolveAssemblyReference.cache
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.dll
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\bin\Debug\LibriRaccontati.Player.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\bin\Debug\LibriRaccontati.Player.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\bin\Debug\NAudio.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\bin\Debug\NAudio.xml
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.pdb
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.csprojResolveAssemblyReference.cache
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.Player\obj\Debug\LibriRaccontati.Player.csproj.CoreCompileInputs.cache
