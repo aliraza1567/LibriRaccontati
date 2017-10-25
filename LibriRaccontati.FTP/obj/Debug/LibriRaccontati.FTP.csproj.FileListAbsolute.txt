@@ -1,0 +1,11 @@
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.FTP\bin\Debug\LibriRaccontati.FTP.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.FTP\bin\Debug\LibriRaccontati.FTP.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.csprojResolveAssemblyReference.cache
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.pdb
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\bin\Debug\LibriRaccontati.FTP.dll
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\bin\Debug\LibriRaccontati.FTP.pdb
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.csprojResolveAssemblyReference.cache
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.csproj.CoreCompileInputs.cache
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.dll
+D:\Work\Projects\LibriRaccontati\LibriRaccontati.FTP\obj\Debug\LibriRaccontati.FTP.pdb

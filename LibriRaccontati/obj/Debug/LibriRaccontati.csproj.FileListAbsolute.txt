@@ -1,0 +1,32 @@
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.exe.config
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.exe
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.pdb
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.Player.dll
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\NAudio.dll
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.Player.pdb
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csprojResolveAssemblyReference.cache
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmPlayer.resources
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmLogin.resources
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.Properties.Resources.resources
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csproj.GenerateResource.Cache
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.exe
+D:\Work\Visual Studio 2015\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.exe.config
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.exe
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.Player.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\NAudio.dll
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\bin\Debug\LibriRaccontati.Player.pdb
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csprojResolveAssemblyReference.cache
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmPlayer.resources
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmLogin.resources
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.Properties.Resources.resources
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csproj.GenerateResource.Cache
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.exe
+D:\Work\SourceTree (Git)\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.pdb
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csprojResolveAssemblyReference.cache
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmPlayer.resources
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.FrmLogin.resources
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.Properties.Resources.resources
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csproj.GenerateResource.Cache
+D:\Work\Projects\LibriRaccontati\LibriRaccontati\obj\Debug\LibriRaccontati.csproj.CoreCompileInputs.cache
